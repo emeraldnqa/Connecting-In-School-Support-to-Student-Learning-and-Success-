@@ -1,2 +1,2 @@
-# Stat-201-Project
+# Stat 201 Project
 STAT 201 Project
